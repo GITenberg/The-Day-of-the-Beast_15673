@@ -1,0 +1,36 @@
+_repo: The-Day-of-the-Beast_15673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grey, Zane
+    aliases:
+    - Gray, Zane
+    - Gray, Pearl Zane
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '212'
+    url: http://www.gutenberg.org/2009/agents/212
+    wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
+description: "The Day of the Beast is a 1922 novel by Zane Grey.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: Western
+gutenberg_issued: '2005-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15673'
+  wikidata: Q7729207
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Disabled veterans -- United States -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Social change -- Fiction'
+title: The Day of the Beast
+url: http://www.gutenberg.org/ebooks/15673
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Day_of_the_Beast_(novel)
