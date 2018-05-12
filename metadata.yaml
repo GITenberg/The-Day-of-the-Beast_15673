@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Zane_Grey
 description: "The Day of the Beast is a 1922 novel by Zane Grey.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15673#The-Day-of-the-Beast
 gutenberg_bookshelf: Western
 gutenberg_issued: '2005-04-21'
 gutenberg_type: Text
